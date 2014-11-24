@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rafaelbandeira3@gmail.com"]
   spec.summary       = %q{Client for uniqush-push}
   spec.description   = %q{Client for uniqush-push server for push notifications using GCM, APNS and others http://uniqush.org/}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/rafaelbandeira3/uniqush-rb"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
